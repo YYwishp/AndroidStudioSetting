@@ -4,7 +4,7 @@
     <property name="created">2020-11-23T15:31:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-02-10T16:04:04</property>
+    <property name="modified">2022-04-11T23:37:25</property>
     <property name="originalScheme">gyx</property>
   </metaInfo>
   <console-font>
@@ -442,6 +442,7 @@
     <option name="KOTLIN_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="e9e700" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY">
@@ -25340,6 +25341,7 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fff815" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
