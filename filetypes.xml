@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="GelatoCoin" type="AUTO_DETECTED" />
       <mapping pattern="out" type="AUTO_DETECTED" />
+      <mapping pattern="GelatoCoin" type="AUTO_DETECTED" />
       <mapping ext="xcconfig" type="AUTO_DETECTED" />
       <mapping ext="wav" type="AUTO_DETECTED" />
       <mapping ext="aac" type="AUTO_DETECTED" />
