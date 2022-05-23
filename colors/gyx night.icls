@@ -4,7 +4,7 @@
     <property name="created">2020-11-23T15:31:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-05-23T21:38:42</property>
+    <property name="modified">2022-05-23T23:13:58</property>
     <property name="originalScheme">gyx</property>
   </metaInfo>
   <console-font>
@@ -25440,7 +25440,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="262424" />
+        <option name="BACKGROUND" value="1d2226" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
