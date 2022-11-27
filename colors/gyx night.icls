@@ -4,7 +4,7 @@
     <property name="created">2020-11-23T15:31:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2022-05-24T12:03:03</property>
+    <property name="modified">2022-11-27T19:27:02</property>
     <property name="originalScheme">gyx</property>
   </metaInfo>
   <console-font>
@@ -528,6 +528,17 @@
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
         <option name="FOREGROUND" value="13b20d" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_LEVEL_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="e9f5e6" />
+        <option name="BACKGROUND" value="8b3c3c" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="fa0000" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
