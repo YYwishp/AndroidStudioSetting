@@ -6,5 +6,10 @@
       </list>
     </option>
     <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="level:" />
+      </list>
+    </option>
   </component>
 </application>
