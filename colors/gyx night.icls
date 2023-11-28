@@ -4,7 +4,7 @@
     <property name="created">2020-11-23T15:31:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2023-11-29T00:16:15</property>
+    <property name="modified">2023-11-29T00:41:30</property>
     <property name="originalScheme">gyx</property>
   </metaInfo>
   <console-font>
@@ -25451,6 +25451,13 @@
     <option name="TAB_SELECTED_INACTIVE">
       <value>
         <option name="BACKGROUND" value="4f5d6b" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="aeb5bd" />
+        <option name="BACKGROUND" value="262628" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
