@@ -4,20 +4,20 @@
       <mapping pattern="out" type="AUTO_DETECTED" />
       <mapping pattern="GelatoCoin" type="AUTO_DETECTED" />
       <mapping ext="xcconfig" type="AUTO_DETECTED" />
-      <mapping ext="wav" type="AUTO_DETECTED" />
       <mapping ext="aac" type="AUTO_DETECTED" />
+      <mapping ext="wav" type="AUTO_DETECTED" />
       <mapping pattern="ModifyTransform" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="mp3" type="Native" />
       <mapping ext="mp4" type="Native" />
-      <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="pbxproj" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="Native" />
       <mapping ext="xcsettings" type="PLAIN_TEXT" />
       <mapping ext="xcworkspacedata" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="crc" type="PLAIN_TEXT" />
+      <mapping ext="pbxproj" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
