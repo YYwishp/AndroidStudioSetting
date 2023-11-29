@@ -5,9 +5,10 @@
         <option value="main" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.popmart.global.debug " />
+    <option name="mostRecentlyUsed" value="package:com.popmart.global.debug tag:gyx " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.popmart.global.debug tag:gyx " />
         <option value="package:com.popmart.global.debug " />
         <option value="package:com.popmart.global.debug level:error " />
         <option value="level:ERROR " />
