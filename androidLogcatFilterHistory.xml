@@ -9,8 +9,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.popmart.global.debug tag:gyx " />
-        <option value="package:com.popmart.global.debug " />
         <option value="package:com.popmart.global.debug level:error " />
+        <option value="package:com.popmart.global.debug " />
         <option value="level:ERROR " />
         <option value="level:" />
       </list>
