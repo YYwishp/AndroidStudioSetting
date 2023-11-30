@@ -4,7 +4,7 @@
     <property name="created">2020-11-23T15:31:31</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.0.1.0</property>
-    <property name="modified">2023-11-29T00:41:30</property>
+    <property name="modified">2023-11-30T15:22:11</property>
     <property name="originalScheme">gyx</property>
   </metaInfo>
   <console-font>
@@ -382,6 +382,16 @@
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="a7ef19" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="e39d34" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="f5f5f6" />
       </value>
     </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
