@@ -1,0 +1,21 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.popmart.global.debug " />
+        <option value="package:com.popmart.global.debug level:error " />
+        <option value="package:com.popmart.global.debug  level:error " />
+        <option value="package:com.popmart.global.debug level:info level:error " />
+        <option value="package:com.popmart.global.debug tag:gyx " />
+        <option value="level:ERROR " />
+        <option value="level:" />
+      </list>
+    </option>
+  </component>
+</application>

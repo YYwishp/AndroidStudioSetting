@@ -1,0 +1,27 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="427f670c" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 8" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:3:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="(no serial number)" />
+          </Key>
+        </key>
+        <name value="Device" />
+        <target value="Android 1.0" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
