@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="alt z" />
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
